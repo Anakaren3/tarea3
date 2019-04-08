@@ -1,0 +1,24 @@
+#include<iostream>
+#include<conio.h>
+useing namespace std;
+
+int main () {
+    int numeros [100],n;
+
+    cout<< "Numeros de elementos que va a tener el arreglo";
+    cin>> n;
+
+    for (int i=0; i<n; i++); {
+
+        cout<< "Digita los  numeros del arreglo";
+        cin>> numeros [i];
+        }
+         if (int i=0;i<n;i++) {
+         cout<< i (" ");
+         }else{
+             i--;
+             cout<< i (" ");
+             }
+getch) ();         
+return 0;
+    }
